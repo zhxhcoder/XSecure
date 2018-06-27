@@ -19,8 +19,8 @@ public class StringUtils {
     /**
      * 判断对应的字符串是否为空
      *
-     * @param str
-     * @return
+     * @param str 字符串
+     * @return 是否为空
      */
     public static boolean isNull(String str) {
         if (str == null)
